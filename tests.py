@@ -1,4 +1,3 @@
-import time
 import unittest
 from add_two_numbers import * # Just testing one small file!
 
